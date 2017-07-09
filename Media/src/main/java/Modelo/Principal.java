@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Principal {
 	
 	public static void main(String[] args) {
-		System.out.println("Média Entre Dois Números, Maven, GIT, export JAR.");
+		System.out.println("Média Entre Dois Números, Maven, GIT, export JAR");
 		float a;
 		float b;
 		float m;
